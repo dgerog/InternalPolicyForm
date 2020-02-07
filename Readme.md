@@ -1,6 +1,6 @@
 # Internal Policy Form ([www.fcc.gov](FCC) - Federal Communications Commission)
     
-This is      I created (**STILL UNDER DEVELOPMENT**) to replicate the [https://www.fcc.gov/cyberplanner](FCC) Cyber Planner form.
+This is a Wordpress plugin I created (**STILL UNDER DEVELOPMENT**) to replicate the [https://www.fcc.gov/cyberplanner](FCC) Cyber Planner form.
 
 # How it works?
 
